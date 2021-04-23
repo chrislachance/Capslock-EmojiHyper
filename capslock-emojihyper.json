@@ -2,7 +2,7 @@
   "title": "Tap CapsLock for Emoji, hold for Hyper",
   "maintainers": ["chrislachance"],
   "homepage": "https://github.com/chrislachance/Capslock-EmojiHyper",
-  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/chrislachance/Capslock-EmojiHyper/master/capslock-emojihyper.json",
+  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/chrislachance/Capslock-EmojiHyper/main/capslock-emojihyper.json",
   "rules": [
     {
       "description": "Tap CapsLock for Emoji, hold for Hyper",
