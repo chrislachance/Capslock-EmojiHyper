@@ -15,7 +15,7 @@
               "optional": ["any"]
             }
           },
-          "to": [
+           "to": [
             {
               "key_code": "right_shift",
               "modifiers": ["right_command", "right_control", "right_option"]
@@ -23,8 +23,8 @@
           ],
           "to_if_alone": [
             {
-              "key_code": "right_control",
-              "modifiers": ["right_command", "spacebar"]
+              "key_code": "spacebar",
+              "modifiers": ["left_command", "left_control"]
             }
           ]
         }
